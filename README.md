@@ -4,7 +4,9 @@
 
 
 ## Green hand question
++ Create Queue (FIFO)
 
++ Create Stack (FILO)
 ## Code training
 
 
